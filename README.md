@@ -2,7 +2,6 @@
 
 ### Programming and markup languages
   <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black"/>
 
 ### 🧰 Frameworks and libraries
   <img src="https://img.shields.io/badge/arduino_framework-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
