@@ -1,3 +1,29 @@
+## Technologies Used
+
+### Programming and markup languages
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ini-%232C3E50.svg?style=for-the-badge&logo=files&logoColor=white"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+
+### 🧰 Frameworks and libraries
+  <img src="https://img.shields.io/badge/arduino_framework-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/arduinojson-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/esp32_camera-%23D32F2F.svg?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/wifi-%23009688.svg?style=for-the-badge&logo=wifi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mbedtls-%233F51B5.svg?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+
+### Databases and cloud hosting
+  <img src="https://img.shields.io/badge/fastapi_image_server-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/aws_ec2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql_%28via_api%29-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### Software and tools
+  <img src="https://img.shields.io/badge/platformio-%23F5822A.svg?style=for-the-badge&logo=platformio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/espressif32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/serial_monitor-%23000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+
 # 📷 ESP32-S3-CAM - Captura de Imágenes para Detección de Aforo
 
 ## 📋 Resumen del Proyecto
